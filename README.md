@@ -6,7 +6,7 @@ A Structured **150-day** challenge to solve data structure problems, progressing
 
 ### Problem 1:
 **Scenario:**
-Given an array of n numbers, find any pair which sums to a give target. 
+Given an array of n numbers, find any pair which sums to a given target. 
 
 For example,
 nums = [3, 4, 5, 6]
