@@ -1,4 +1,8 @@
 class MajorityElement:
+    """
+    Time Complexity : O(N)
+    Space Complexity : O(1)
+    """
 
     def find_majority_element(self, nums: list):
         majority_element = nums[0]
